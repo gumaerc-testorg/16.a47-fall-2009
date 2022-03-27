@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cff3e891-ffa2-53f4-73ab-20587f15d8b0
 resourcetype: Document
 title: 'Curricular Reviews: Harvard, Princeton, and Yale: I'
 uid: 1e85e802-08b1-0988-6548-d6d0b55ffa34
