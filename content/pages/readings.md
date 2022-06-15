@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each lecture session
+  of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -157,9 +159,9 @@ Some of our key competitors seem to be moving in our direction with more of a sc
 
 "World University Rankings." _The Times Higher Education Supplement_, October 28, 2005.
 
-"Curricular Reviews: Harvard, Princeton, and Yale: I." Division of Undergraduate Education Meeting, Cambridge, MA, February 3, 2006. ([PDF]({{< baseurl >}}/resources/mit16_a47f09_read1))
+"Curricular Reviews: Harvard, Princeton, and Yale: I." Division of Undergraduate Education Meeting, Cambridge, MA, February 3, 2006. ({{% resource_link 1e85e802-08b1-0988-6548-d6d0b55ffa34 "PDF" %}})
 
-"Curricular Reviews: Harvard, Princeton, and Yale: II." Division of Undergraduate Education Meeting, Cambridge, MA, March 3, 2006. ([PDF]({{< baseurl >}}/resources/mit16_a47f09_read2))
+"Curricular Reviews: Harvard, Princeton, and Yale: II." Division of Undergraduate Education Meeting, Cambridge, MA, March 3, 2006. ({{% resource_link 2844d6ea-143f-964c-c78d-d1ef9f52bfb7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -223,7 +225,7 @@ Hastings, Daniel. "The Future of Engineering Systems: Development of Engineering
 
 Sheffi, Yossi. "Geeks and Chiefs: Thoughts on Engineering Education at MIT." 6th Annual Charles L. Miller Lecture, Cambridge, MA, April 5, 2007.
 
-Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/88644/2008_A_Roadmap_for_Engineering.pdf?sequence=1&isAllowed=y))
+Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. ([PDF - 5.5MB](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/88644/2008_A_Roadmap_for_Engineering.pdf?sequence=1&isAllowed=y))
 
 Silbey, Susan. "[Developing Diverse Leadership for Engineering](http://web.mit.edu/ssilbey/www/diverse_leadership.html)."
 

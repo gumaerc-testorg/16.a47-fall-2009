@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides assignment descriptions, due dates, and sample
+  final papers written by students in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -154,7 +156,7 @@ FILES
 Example 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_a47f09_sw1))
+({{% resource_link d7ddda3c-43de-e513-9359-379426d58291 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Example 1
 Example 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_a47f09_sw2))
+({{% resource_link c43e7749-8f59-8987-fd18-2e01f2ba83f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +174,7 @@ Example 2
 Example 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_a47f09_sw3))
+({{% resource_link edcd9faa-ccf0-13cf-c864-10c3ebd6b77b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
