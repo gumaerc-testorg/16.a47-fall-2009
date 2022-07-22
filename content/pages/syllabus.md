@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the seminar description and information
+  on meeting times, grading, learning objectives, and measurable outcomes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c0623852-bcde-9013-15b2-980a73d6e48b
 ---
