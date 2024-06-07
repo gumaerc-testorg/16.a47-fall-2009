@@ -3,6 +3,7 @@ content_type: resource
 description: Presentation on how some of MIT's key competitors are emphasizing science,
   from a Division of Undergraduate Education Meeting, Cambridge, MA, March 3, 2006.
 file: /courses/16-a47-the-engineer-of-2020-fall-2009/1e85e80208b109886548d6d0b55ffa34_MIT16_A47F09_read1.pdf
+file_size: 88972
 file_type: application/pdf
 learning_resource_types:
 - Readings
